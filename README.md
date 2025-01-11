@@ -1,1 +1,1 @@
-dgpu and ethernet dosent work 
+dgpu and wifi dosent work 
