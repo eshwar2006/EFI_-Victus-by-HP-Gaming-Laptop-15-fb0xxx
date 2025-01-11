@@ -1,0 +1,1 @@
+# EFI_-Victus-by-HP-Gaming-Laptop-15-fb0xxx
